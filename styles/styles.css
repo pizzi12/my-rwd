@@ -48,3 +48,20 @@ nav ul {
 nav ul li {
   display: inline-block;
 }
+
+#content{
+  clear: both;
+}
+
+/* ----- Top-Right Floated Navbar -----*/
+
+
+header {
+  float: left;
+  width: 400px;
+}
+
+nav {
+  float: right;
+  width: 175px;
+}
